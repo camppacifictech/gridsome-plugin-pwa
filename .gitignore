@@ -6,7 +6,3 @@ lib/
 
 # VS Code configurations
 .vscode/
-
-# Built files
-files
-index.js
